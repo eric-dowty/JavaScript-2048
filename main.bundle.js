@@ -57,7 +57,7 @@
 	  40: 'down'
 	};
 
-	window.mode = 'original';
+	window.mode = 'turing';
 
 	$(document).ready(function () {
 
